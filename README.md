@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am SungHyun from Gachon University.
 
 <!--
 **eddiemoon0498/eddiemoon0498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
